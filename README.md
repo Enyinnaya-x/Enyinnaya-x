@@ -18,14 +18,13 @@
 ## 📊 GitHub Stats  
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enyinnaya-x&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enyinnaya-x&layout=compact&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enyinnaya-x&theme=radical)](https://git.io/streak-stats)  
 
 ---
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-eke-133288359/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-eke-133288359/) 
 
 ---
 
