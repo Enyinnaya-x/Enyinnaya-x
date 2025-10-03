@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Victor  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;PHP+%7C+Vue+%7C+Tailwind;Always+Learning+New+Things&center=true&width=500&height=45)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;PHP+%7C+Vue+%7C+Tailwind;Always+Learning+New+Things&center=true&width=500&height=45)](https://git.io/typing-svg)
 
 ---
 
