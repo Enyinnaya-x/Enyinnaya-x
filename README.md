@@ -17,17 +17,28 @@
 
 ## 📊 GitHub Stats  
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enyinnaya-x&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enyinnaya-x&theme=radical)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enyinnaya-x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stats + Top Languages side by side -->
+<table>
+  <tr>
+    <td>
+      [![Victor's GitHub stats](https://github-readme-stats-six-iota-16.vercel.app/api?username=Enyinnaya-x&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      [![Top Langs](https://github-readme-stats-six-iota-16.vercel.app/api/top-langs/?username=Enyinnaya-x&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enyinnaya-x&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-eke-133288359/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eke-133288359/)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekevictor84@gmail.com)
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”* ✨  
+✨ *“Code. Learn. Build. Repeat.”* ✨
