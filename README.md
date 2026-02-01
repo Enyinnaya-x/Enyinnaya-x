@@ -7,7 +7,8 @@
 ## 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://img.shields.io/github/go-mod/go-version/:user/:repo
+)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
