@@ -1,24 +1,26 @@
-# 👋 Hey, I'm Victor  
+# 👋 I'm Victor Eke | Backend Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;PHP+%7C+Go+%7C+Tailwind;Always+Learning+New+Things&center=true&width=500&height=45)](https://git.io/typing-svg)
+I architect scalable server-side systems and infrastructure. My focus is on building robust APIs, maintaining transactional integrity, and optimizing database performance.
 
 ---
 
-## 🛠 Tech Stack  
-![JavaScript](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+### 💻 Core Expertise
+- **Languages:** Java, PHP, Go, SQL (PostgreSQL, MySQL)
+- **Frameworks:** Spring Boot, Laravel, Hibernate
+
+---
+
+### 🛠 Technical Ecosystem
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
----
-
-## 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eke-133288359/)  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekevictor84@gmail.com)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-✨ *“Code. Learn. Build. Repeat.”* ✨
+### 📫 Let's Talk Systems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eke-133288359/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ekevictor84@gmail.com)
+
+✨ *"Building for reliability, scaling for the future."*
