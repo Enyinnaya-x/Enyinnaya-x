@@ -5,8 +5,6 @@
 > **Interested in HOW money moves, WHEN it moves, IF it moves.**
 
 
-Always learning. Always shipping. Always curious about what's happening under the hood.
-
 ---
 
 ### 📫 Let's Talk Systems or Money
